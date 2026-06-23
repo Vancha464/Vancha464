@@ -52,8 +52,8 @@ I build ML systems that work at the intersection of computation and biology — 
 ## 📊 GitHub stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanchagarg64&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanchagarg64&layout=compact&hide_border=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vancha464&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vancha464&layout=compact&hide_border=true&theme=default" height="150" />
 </p>
 
 ---
